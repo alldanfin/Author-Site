@@ -1,0 +1,82 @@
+html, body, #wrapper, #books, #aboutAuthor {
+    margin: 0 auto;
+    width: 100%;
+    background-color: #212121;
+    color: #bdbdbd;
+}
+
+#bigTop {
+    background: url("https://s19.postimg.org/mc06338lf/forest-931706-min.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 20em;
+}
+
+#bigTop h1 {
+    margin-top: 2em;
+    font-family: 'La Belle Aurore', cursive;
+    color: #fff;
+    font-size: 3.5em;
+}
+
+#brandName {
+    font-family: 'La Belle Aurore', cursive;
+    color: #fff;
+    font-size: 2em;
+}
+
+li {
+    font-family: 'Ledger', serif;
+}
+
+#books {
+    margin-top: 0;
+    padding-bottom: 3em;
+}
+
+#books h3 {
+    color: #bdbdbd;
+}
+
+.books {
+    max-width: 80%;
+    height: auto;
+    border-radius: 4px;
+}
+
+#books h4{
+    color: #fff;
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 1.7em;
+}
+
+#books p {
+    font-family: 'Ledger', serif;
+}
+
+#eldryPic {
+    max-width: 80%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#aboutAuthor {
+    height: 100%;
+}
+
+#aboutEldry p {
+    height: 100%;
+    padding: 10em;
+    font-family: 'Ledger', serif;
+}
+
+#links a {
+    color: #fff;
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 2em;
+}
+
+#links a:hover {
+    text-decoration: none;
+    color: cadetblue;
+}
